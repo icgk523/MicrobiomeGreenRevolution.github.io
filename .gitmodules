@@ -1,0 +1,3 @@
+[submodule "microbiomegreenrevolution/themes/ananke"]
+	path = microbiomegreenrevolution/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
