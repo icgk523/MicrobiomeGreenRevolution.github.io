@@ -1,4 +1,23 @@
-baseURL = 'https://example.org/'
+baseURL = "https://icgk523.github.io/MicrobiomeGreenRevolution.github.io/"
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Microbiome Green Revolution'
 theme = "ananke"
+
+[menu]
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Team"
+    url = "/team/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Contact Us"
+    url = "/contact-us/"
+    weight = 3
+
+

@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://icgk523.github.io/MicrobiomeGreenRevolution.github.io/</loc>
+    <lastmod>2024-11-08T11:57:27+00:00</lastmod>
+  </url><url>
+    <loc>https://icgk523.github.io/MicrobiomeGreenRevolution.github.io/posts/</loc>
     <lastmod>2024-11-08T11:41:33+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
-    <lastmod>2024-11-08T11:41:33+00:00</lastmod>
+    <loc>https://icgk523.github.io/MicrobiomeGreenRevolution.github.io/categories/</loc>
   </url><url>
-    <loc>https://example.org/categories/</loc>
-  </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://icgk523.github.io/MicrobiomeGreenRevolution.github.io/tags/</loc>
   </url>
 </urlset>
